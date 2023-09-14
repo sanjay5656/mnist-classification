@@ -16,7 +16,7 @@ It is a widely used and deeply understood dataset and, for the most part, is “
 
 ## Neural Network Model
 
-![image](https://github.com/sanjay5656/mnist-classification/assets/115128955/8d78d390-ef86-4c2e-9142-b1db50789674)
+![image](https://github.com/sanjay5656/mnist-classification/assets/115128955/4144bf24-f2fc-4d92-8dc3-3d098d27b6fa)
 
 ## DESIGN STEPS
 
